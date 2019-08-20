@@ -9,5 +9,5 @@ public class TheBlueSeaHotelApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TheBlueSeaHotelApplication.class, args);
 	}
-
+hi
 }
